@@ -140,10 +140,6 @@ The system architecture consists of the following components:
 ### Deployment Infrastructure
 The application can be deployed in a containerized environment using Docker Compose, which allows easy management of dependencies and configuration. Deployment in the cloud is also possible using services such as AWS, Azure, or Google Cloud, providing scalability and high availability.
 
-# JMeter Performance Test Plan for ChatAPI
-
-This JMeter test plan evaluates the performance of the ChatAPI by simulating various user interactions. It includes four main test scenarios, each designed to mimic real-world usage patterns.
-
 ### Key Components
 
 - **HTTP Requests**: Used to send various types of requests (POST, GET, PATCH) to the ChatAPI endpoints.
